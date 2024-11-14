@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script to generate contributor and pull request lists
+Script to generate contributor and pull request lists x
 
 This script generates contributor and pull request lists for release
 changelogs using Github v3 protocol. Use requires an authentication token in
